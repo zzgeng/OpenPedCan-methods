@@ -1,7 +1,7 @@
 # Contribution guidelines for the OpenPBTA-manuscript
 
 Please see [`USAGE.md`](USAGE.md) for information on how to use the Manubot for writing the manuscript.
-Below you'll find information on the contribution workflow for the OpenPBTA manuscript.
+Below you'll find information on the contribution workflow for OpenPedCan methods.
 
 ## Issues
 
@@ -9,12 +9,11 @@ We use issues for discussion of papers, section outlines, and other structural c
 
 ## Pull requests
 
-Contributions to the analysis repository operate on a pull request model.
-We expect participants to actively review pull requests, with a particular focus on pull requests that include analyses within their areas of expertise.
+Contributions operate on a pull request model.
 
 ## Authorship
 
-The ultimate goal of this is effort is to describe the results from [OpenPBTA-analysis](https://github.com/AlexsLemonade/OpenPBTA-analysis) in this manuscript.
+The ultimate goal of this is effort is to describe the methods from [OpenPedCan](https://github.com/PediatricOpenTargets/OpenPedCan-analysis) here.
 We expect authors to have contributed to the overall design of the project by participating in issues and to contribute to the text by contributing, reviewing, or informing sections and/or revisions to sections through pull requests in this repository.
 It is important to note that, for authorship, these should be substantial intellectual contributions to the scientific objective of the work underpinning the manuscript.
 Authorship will be based on the following criteria (adapted from [ICMJE guidelines](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)):
