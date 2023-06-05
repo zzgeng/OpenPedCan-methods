@@ -27,10 +27,10 @@ _What GitHub issue does your pull request address?_
 Unless otherwise noted above, this PR will be considered ready for review when all four items have been checked.
 
 - [ ] All changes to text follow "one sentence per line" [[Manubot instructions](https://github.com/AlexsLemonade/OpenPBTA-manuscript/blob/master/USAGE.md#manubot-markdown)]
-- [ ] All citations follow the [Manubot citation instructions](https://github.com/AlexsLemonade/OpenPBTA-manuscript/blob/master/USAGE.md#citations)
-- [ ] All changes or additions to tables follow the [Manubot table instructions](https://github.com/AlexsLemonade/OpenPBTA-manuscript/blob/master/USAGE.md#tables)
-- [ ] All figures follow the [Manubot figure instructions](https://github.com/AlexsLemonade/OpenPBTA-manuscript/blob/master/USAGE.md#figures)
-- [ ] There are no new spelling errors identified by the [Manubot spellchecker](https://github.com/AlexsLemonade/OpenPBTA-manuscript/blob/master/USAGE.md#spellchecking)
+- [ ] All citations follow the [Manubot citation instructions](https://github.com/d3b-center/OpenPedCan-methods/blob/master/USAGE.md#citations)
+- [ ] All changes or additions to tables follow the [Manubot table instructions](https://github.com/d3b-center/OpenPedCan-methods/blob/master/USAGE.md#tables)
+- [ ] All figures follow the [Manubot figure instructions](https://github.com/d3b-center/OpenPedCan-methods/blob/master/USAGE.md#figures)
+- [ ] There are no new spelling errors identified by the [Manubot spellchecker](https://github.com/d3b-center/OpenPedCan-methods/blob/master/USAGE.md#spellchecking)
 
 ### Spellcheck Step
 
