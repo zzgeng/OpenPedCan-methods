@@ -139,6 +139,16 @@ authors:
   affiliations:
   - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+- github: zzgeng
+  name: Zhuangzhuang Geng
+  initials: ZG
+  orcid: 0009-0007-6883-0691
+  email: gengz@chop.edu
+  contributions:
+  - Formal analysis
+  affiliations:
+  - Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  - Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
 - github: bmennis
   name: Brian M. Ennis
   initials: BME
